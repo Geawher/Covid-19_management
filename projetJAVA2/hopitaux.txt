@@ -1,0 +1,4 @@
+Les Hopitaux dans le gouvernorat  Ben Arous sont
+L'hopital :  7ourou9 contient un nombre d'infecté égal à   7ourou9ce qui resulte un nombre de lits disponibles égale à  7ourou9
+L'hopital :  x contient un nombre d'infecté égal à   xce qui resulte un nombre de lits disponibles égale à  x
+L'hopital :  maghir esm contient un nombre d'infecté égal à   maghir esmce qui resulte un nombre de lits disponibles égale à  maghir esm

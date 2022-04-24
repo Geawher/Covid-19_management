@@ -1,0 +1,10 @@
+** reste à faire ** 
+1- ajout gouvernorat : verifier selon la date systeme 
+2- mise a jour :f les gouvernorat fi tounes yelzem ay mise ajour tsir nombre total w deces w gueris .. yetzed f pays tounes f
+Date x / najmou naamlou modification aala barsha wileyet f date wahda donc yelzemha tetzed 
+3-controle de saisie : 
+manajmoush naamlou mise a jour fi date deja mawjouda taa nafes el gouvernorat wala pays
+manajmoush naamlou mise a jour aala pays wala gouvernorat mehesh mathrouba fel corona ( ki yaamel selection yelzem ythabet mawjouda wala le ) 
+ 
+
+
